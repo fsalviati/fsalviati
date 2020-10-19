@@ -1,6 +1,7 @@
 ## HI there :hand: I am Fernando Salviati
 
-  Front-End Web Developer
+* :computer: I'm a Front-End Web Developer
+* :mortar_board: Mastes of Cloud Computing
 
 <br />
 :camel:
