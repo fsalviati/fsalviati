@@ -1,4 +1,6 @@
-### HI there :hand: I am Fernando Salviati - Front-End Web Developer
+### HI there :hand: I am Fernando Salviati
+
+  Front-End Web Developer
 
 <br />
 :camel:
