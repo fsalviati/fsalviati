@@ -1,4 +1,4 @@
-# HI there :hand: I am Fernando Salviati
+# Hi there :hand: I am Fernando Salviati
 
 * :computer: I'm a Front-End Web Developer (Junior)
 * :mortar_board: Masters of Cloud Computing
