@@ -19,8 +19,6 @@
 <br />
 
 ## Contact me on:
-
-<a href="[https://www.linkedin.com/in/fernando-salviati-b44726145/](https://www.linkedin.com/in/fernando-salviati/)" rel="nofollow"></a>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernando-salviati/](https://www.linkedin.com/in/fernando-salviati/))
 
 
