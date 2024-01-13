@@ -19,7 +19,7 @@
 <br />
 
 ## Contact me on:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernando-salviati/](https://www.linkedin.com/in/fernando-salviati/))
+<a href="https://www.linkedin.com/in/fernando-salviati/">Linkedin</a>
 
 
 
