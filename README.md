@@ -7,7 +7,7 @@
 <br />
 
 ## Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,nextjs,sass,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,nextjs,sass,tailwind,bootstrap)](https://skillicons.dev)
 <br />
 ## Backend Technologies
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql)](https://skillicons.dev)
