@@ -8,9 +8,9 @@
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react,nodejs,express,sass,tailwind)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nextjs,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,graphql,heroku,mongodb,mysql,figma)](https://skillicons.dev)
 
 <!--<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">  
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
