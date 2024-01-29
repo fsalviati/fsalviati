@@ -10,7 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react)](https://skillicons.dev)
 <br />
 ## Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=node,express,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
 ## Styling & Design
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,figma)](https://skillicons.dev)
 <br />
