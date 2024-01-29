@@ -11,7 +11,7 @@
 <br />
 ## Backend Technologies
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql)](https://skillicons.dev)
-## Cloud & Infrastructure & Tools
+## Cloud, Infrastructure and Tools
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,heroku,git,figma)](https://skillicons.dev)
 <br />
 
