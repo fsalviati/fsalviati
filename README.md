@@ -17,7 +17,3 @@
 
 ## Contact me on:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-salviati/)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fsalviati)](https://github.com/fsalviati/github-readme-stats)
-
