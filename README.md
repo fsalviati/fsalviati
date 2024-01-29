@@ -15,10 +15,7 @@
 [![My Skills](https://skillicons.dev/icons?i=sass,tailwind,figma)](https://skillicons.dev)
 <br />
 ## Cloud & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react,nodejs,express,sass,tailwind)](https://skillicons.dev)
-<br />
-## Version Control
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,heroku)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,heroku,git)](https://skillicons.dev)
 <br />
 ## APIs & Query Languages
 [![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
