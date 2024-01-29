@@ -7,18 +7,12 @@
 <br />
 
 ## Frontend Technologies
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,nextjs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,react,ts,nextjs,sass,tailwind)](https://skillicons.dev)
 <br />
 ## Backend Technologies
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql)](https://skillicons.dev)
-## Styling & Design
-[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,figma)](https://skillicons.dev)
-<br />
-## Cloud & Infrastructure
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,heroku,git)](https://skillicons.dev)
-<br />
-## APIs & Query Languages
-[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,graphql)](https://skillicons.dev)
+## Cloud & Infrastructure & Tools
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,heroku,git,figma)](https://skillicons.dev)
 <br />
 
 ## Contact me on:
