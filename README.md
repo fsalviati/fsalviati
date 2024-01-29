@@ -6,25 +6,25 @@
 * :blue_book: Self driven, hard working and friendly
 <br />
 
-## Languages and Tools
-
+## Frontend Technologies
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react)](https://skillicons.dev)
+<br />
+## Backend Technologies
+[![My Skills](https://skillicons.dev/icons?i=node,express,mongodb,mysql)](https://skillicons.dev)
+## Styling & Design
+[![My Skills](https://skillicons.dev/icons?i=sass,tailwind,figma)](https://skillicons.dev)
+<br />
+## Cloud & Infrastructure
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nextjs,react,nodejs,express,sass,tailwind)](https://skillicons.dev)
 <br />
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,git,graphql,heroku,mongodb,mysql,figma)](https://skillicons.dev)
-
-<!--<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" style="max-width:100%;">  
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" style="max-width:100%;">
-<img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" style="max-width:100%;">
-<img align="left" alt="React" width="32px" src="[https://camo.githubusercontent.com/bc573f0860998e86b093910b50116610020ed132/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313030302f312a5961667537696863314c46755034617a6572416134772e706e67](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)" data-canonical-src="https://miro.medium.com/max/1000/1*Yafu7ihc1LFuP4azerAa4w.png" style="max-width:100%;">
-<img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" style="max-width:100%;">
-<img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" style="max-width:100%;">
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" style="max-width:100%;">
+## Version Control
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,heroku)](https://skillicons.dev)
 <br />
+## APIs & Query Languages
+[![My Skills](https://skillicons.dev/icons?i=graphql)](https://skillicons.dev)
 <br />
--->
 
 ## Contact me on:
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-salviati/)
 
 
