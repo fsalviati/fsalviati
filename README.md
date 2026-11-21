@@ -1,6 +1,6 @@
 # Hi there :hand: I am Fernando Salviati
 
-* :computer: I'm a AI Full Stack Developer
+* :computer: I'm a AI Full Stack Engineer
 * :mortar_board: Masters in Cloud Computing
 * :rocket: I love coding and developing my skills
 <br />
